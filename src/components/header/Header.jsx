@@ -9,8 +9,7 @@ const Header = () => {
       <GroupsOutlinedIcon className='icon'/>
       <div className="header__container">
         <nav>home</nav>
-        <nav>about</nav>
-        <nav>contact us</nav>
+       
       </div>
     </div>
   );
